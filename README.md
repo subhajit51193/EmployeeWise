@@ -81,6 +81,10 @@ Not Deployed
 
 **Client:** Java, SpringBoot
 
+**DataBase:** MongoDB
+
+**Server:** Embedded Tomcat
+
 
 ## Authors
 
@@ -96,9 +100,6 @@ If you have any feedback, please reach out to us at nnorth87@gmail.com
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://subhajit51193.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhajit-saha-103110185/)
 
-**DataBase:** MongoDB
-
-**Server:** Embedded Tomcat
 
 
 
